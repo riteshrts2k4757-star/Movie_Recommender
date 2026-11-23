@@ -15,8 +15,8 @@ Install Git LFS if it is not already installed, then clone the repository:
 
 ```powershell
 git lfs install
-git clone https://github.com/riteshrts2k4757-star/ml_projects.git
-cd ml_projects
+git clone https://github.com/riteshrts2k4757-star/Movie_Recommender.git
+cd Movie_Recommender
 git lfs pull
 ```
 
